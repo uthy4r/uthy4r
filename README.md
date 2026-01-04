@@ -1,4 +1,4 @@
-# My-profile
+# uthy4r
 # Hi, I'm Uthman Babatunde, M.D. 👋
 
 **Medical Doctor • Applied AI/ML Researcher • AI Safety & Healthcare**
