@@ -1,7 +1,6 @@
-# uthy4r
 # Hi, I'm Uthman Babatunde, M.D. 👋
 
-**Medical Doctor • Applied AI/ML Researcher • AI Safety & Healthcare**
+**Medical Doctor • Applied AI/ML Engineer • AI Healthcare Research**
 
 I build **safety-aligned AI systems for clinical deployment**, specializing in multimodal screening agents (voice/text), fine-tuned LLMs, and RAG architectures for mental health and substance use disorder interventions in resource-constrained settings.
 
