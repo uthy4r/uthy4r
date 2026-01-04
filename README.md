@@ -110,10 +110,4 @@ ML engineering, predictive modeling with SHAP interpretability, and generative A
 
 ---
 
-## 📊 GitHub Stats
-
-![Uthman's GitHub stats](https://github-readme-stats.vercel.app/api?username=uthy4r&show_icons=true&theme=radical)
-
----
-
 *Building trustworthy AI systems for healthcare delivery in Africa and beyond.*
