@@ -73,9 +73,9 @@ GitHub • Labelbox • Cloud compute • Jupyter/Colab • Streamlit
 **Associate Research Scientist | Applied AI/ML Engineer**  
 Slum and Rural Health Initiative (SRHIN), Nigeria | 2025–Present
 
-- Co-authoring research on fine-tuning LLMs for depression screening (PHQ-9) in Nigerian Pidgin English
+- Co-authoring research on fine-tuning LLMs for Public health Application
 - Architecting AI-assisted screening workflows with escalation pathways to human clinicians
-- Developing AI-driven intervention frameworks for grant-funded mental healthcare delivery research
+- Developing AI-driven intervention frameworks for funded healthcare delivery research
 - Co-developing translational protocols to assess clinical safety and utility of digital health tools
 
 **AI/ML Engineer — Independent Developer & Consultant** | 2024–Present  
