@@ -24,15 +24,16 @@ End-to-end ML pipeline predicting 30-day hospital readmission using Random Fores
 - **Tech**: Python, pandas, scikit-learn, imbalanced-learn, Streamlit
 - **Impact**: 89% precision for high-risk flagging with class imbalance handling
 
-### 💬 Braveheart Youth SUD RAG Chatbot
+## 🔍 [Clinical RAG Pipeline Highlights](https://github.com/uthy4r/clinical-rag-hypertension)
+Real-time clinical RAG system for evidence-grounded medical decision support
+- ⚡ **Latency**: <200 ms query response time
+- 📊 **Hallucination Reduction**: ~40% reduction in GPT-4 hallucinations through evidence grounding
+- 🎯 **Accuracy**: Evidence-backed answers with confidence scoring
+
+### 💬 SUD Chatbot
 Safety-aligned RAG chatbot for youth with substance use disorders, incorporating culturally relevant language and escalation protocols.
 - **Hallucination Reduction**: ~40% reduction in irrelevant responses
 - **Safety**: Multi-stage validation with human clinician escalation pathways
-
-### 🔍 Clinical RAG Pipeline for Decision Support
-Real-time clinical RAG system (LangChain + Pinecone) for evidence-grounded medical decision support.
-- **Latency**: <200 ms query response
-- **Reliability**: ~40% reduction in GPT-4 hallucinations
 
 ---
 
