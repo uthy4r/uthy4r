@@ -24,8 +24,7 @@ End-to-end ML pipeline predicting 30-day hospital readmission using Random Fores
 - **Tech**: Python, pandas, scikit-learn, imbalanced-learn, Streamlit
 - **Impact**: 89% precision for high-risk flagging with class imbalance handling
 
-
-## 🔍 [Clinical RAG Pipeline Highlights](https://github.com/uthy4r/clinical-rag-hypertension)
+### 🔍 [Clinical RAG Pipeline Highlights](https://github.com/uthy4r/clinical-rag-hypertension)
 Real-time clinical RAG system for evidence-grounded medical decision support
 - ⚡ **Latency**: <200 ms query response time
 - 📊 **Hallucination Reduction**: ~40% reduction in GPT-4 hallucinations through evidence grounding
