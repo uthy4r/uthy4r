@@ -86,7 +86,7 @@ Slum and Rural Health Initiative (SRHIN), Nigeria | 2025–Present
 - Co-developing translational protocols to assess clinical safety and utility of digital health tools
 
 **AI/ML Engineer — Independent Developer & Consultant** | 2024–Present  
-ML engineering, predictive modeling with SHAP interpretability, and generative AI/RAG pipeline deployment for clinical applications.
+- ML engineering, predictive modeling with SHAP interpretability, and generative AI/RAG pipeline deployment for clinical applications.
 
 ---
 
