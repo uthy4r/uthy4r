@@ -2,7 +2,7 @@
 
 **Medical Doctor • Applied AI/ML Engineer • AI Healthcare Research**
 
-I build **safety-aligned AI systems for clinical deployment**, specializing in multimodal screening agents (voice/text), fine-tuned LLMs, and RAG architectures for mental health and substance use disorder interventions in resource-constrained settings.
+I build **safety-aligned AI systems for clinical deployment**, across maternal health, mental health, and substance use disorder, combining fine-tuned LLMs, RAG architectures, and multimodal agents to support frontline health workers in resource-constrained settings.
 
 ---
 
@@ -18,6 +18,12 @@ Engineering robust, interpretable AI systems at the intersection of large langua
 ---
 
 ## 📚 Featured Projects
+
+### 🤱 [Mamacord AI](https://github.com/uthy4r/mamacord-ai)
+AI-powered maternal triage and referral coordination tool for frontline health workers (TBAs, CHWs, PHC nurses) in low-resource Nigerian settings. Built at the **Harvard HSIL Hackathon 2026**.
+- **Problem**: Nigeria accounts for ~30% of global maternal deaths; pre-eclampsia, haemorrhage, and sepsis are all detectable at first contact with the right tools
+- **Tech**: React (Vite), FastAPI, GPT-4o-mini, ChromaDB, hybrid semantic + BM25 retrieval
+- **Output**: Green / Yellow / Red triage classification grounded in WHO and Nigerian National Maternal Health Guidelines, with auto-generated referral handover notes for Red-flag cases
 
 ### 🏥 [Hospital Readmission Risk Prediction](https://github.com/uthy4r/hospital-readmission-prediction)
 End-to-end ML pipeline predicting 30-day hospital readmission using Random Forest + SMOTE. Built with scikit-learn and deployed as a Streamlit web app.
